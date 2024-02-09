@@ -32,10 +32,8 @@ parteum = \relative c'' {
      c16 c g g c c r8 r8 g c e d16 d c c d r8. d4 d8 g,
      c4 r2 r4 
      r4 c8 e d c a g 
-     c4 r2   r4
-     r4 c8 e d c a g
-     c4 r2.  r4
-     c8 e d c a g
+     c4 r2 r4  r4 c8 e d c a
+     c4 r2.  r4 r c8 e d c a
      c4 r2 r4 r2 r4. g8
      c4 r2 r4 
      r4 c8 e d c a g 
@@ -80,9 +78,9 @@ Uôu, uôu
 Le -- va, le -- va, le -- va
 Le -- va_a le -- va -- da do tim -- bal, au, au
 Le -- va, le -- va, le -- va
-Le -- va_a le -- va -- da do tim -- bal,  au, au
-%Le -- va, le -- va, le -- va
-%Le -- va_a le -- va -- da do tim -- bal, au, au
+Le -- va a le -- va -- da do tim -- bal, au, au
+Le -- va, le -- va, le -- va
+Le -- va_a  le -- va -- da do tim -- bal, au, au
 %Fi -- que se qui -- ser fi -- car
 %Tô gos -- tan -- do de sa -- ber
 %Que pas -- seio no teu sor -- ri -- so
@@ -113,15 +111,15 @@ Le -- va_a le -- va -- da do tim -- bal,  au, au
 %Le -- va a le -- va -- da do tim -- bal, au, au
 %Le -- va, le -- va, le -- va
 %Le -- va a le -- va -- da do tim -- bal, au, au
-E hoje... 
-Tô fe -- liz é de lhe ver...Hei
-Com di -- nhei -- ro ou sem_di -- nheiro...Hei
-Eu me vi -- ro_em fe -- ve -- reiro
-E hoje... 
-Tô fe -- liz é de lhe ver...Hei
-Com di -- nhei -- ro ou sem_di -- nheiro...Hei
-Fe -- ve ve -- rei -- ro_eu sou -- ou
-E Fe -- ve -- rei -- ro_eu vou -- ou
+E ho -- je... Hei
+Tô fe -- liz é de lhe ver... Hei
+Com di -- nhei -- ro ou sem di -- nhei -- ro... Hei
+Eu me vi -- ro em fe -- ve -- rei -- ro
+E ho -- je... Hei
+Tô fe -- liz é de lhe ver... Hei
+Com di -- nhei -- ro ou sem di -- nhei -- ro... Hei
+Fe -- ve ve -- rei -- ro eu sou
+Fe -- ve -- rei -- ro eu vou
 Le -- va, le -- va, le -- va le -- va a le -- va -- da do tim -- bal
 Le -- va, le -- va, le -- va le -- va a le -- va -- da do tim -- bal
 Le -- va, le -- va, le -- va le -- va a le -- va -- da do tim -- bal
