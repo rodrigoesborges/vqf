@@ -48,69 +48,74 @@ parteum = \relative c'' {
 
 
 letraum = \lyricmode {
+_ _ _ _
+_ _ _ _
+_ _ _ _
+-
 Gri -- te se qui -- ser gri -- tar
-Tá me -- la -- da de den -- dê
-No ca -- chi -- nho des -- sa tim -- ba -- la -- da
-Pu -- xa que é teu
-No pas -- si -- nho des -- sa tim -- ba -- la -- da
-Mi -- nha prin -- ce -- sa
-Ve -- nho aqui pa -- ra mos -- trar
-To -- ne -- la -- das de de -- se -- jo
-Do xe -- rém des -- sa tim -- ba -- la -- da
-Nun -- ca se es -- que -- ça
-Pro ca -- mi -- nho des -- sa tim -- ba -- la -- da
-Pu -- xa Tê -- te
+Ta me -- la -- da de den -- dê
+No ca -- chinho dessa tim -- ba -- lada
+Pu -- xa que é�teu
+No pas -- sinho dessa tim -- ba -- lada
+Minha prin -- ce -- sa
+%Ve -- nho aqui pa -- ra mos -- trar
+%To -- ne -- la -- das de de -- se -- jo
+%Do xe -- rém des -- sa tim -- ba -- la -- da
+%Nun -- ca se es -- que -- ça
+%Pro ca -- mi -- nho des -- sa tim -- ba -- la -- da
+%Pu -- xa_que_eh --�teu
 Vi -- ver, va -- ler
 O som nos le -- var
-De pa -- ran -- go -- lé pra lá
+De pa -- ran   go -- lé pra lá
 Vem di -- zer me que amar é
 Hum, hum, hum...
 Vem ver, va -- ler
 O som nos le -- var
-De pa -- ran -- go -- lé pra lá
-Vem di -- zer que a amar é
+De pa -- ran  go -- lé pra lá
+Vem di -- zer que a  a  mar é _ _
+Uôu, uôu
 Uôu, uôu
 Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
+Le -- va_a le -- va -- da do tim -- bal, au, au
 Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-Fi -- que se qui -- ser fi -- car
-Tô gos -- tan -- do de sa -- ber
-Que pas -- seio no teu sor -- ri -- so
-Vo -- cê me vê
-Que to -- li -- ce é o des -- ti -- no
-Sem gi -- rar bem
-Tens os lá -- bi -- os de fa -- vo
-Por fa -- vor, ain -- da não sei
-Ca -- da noi -- te é um ves -- ti -- do
-Que o dia tem
-Quan -- do o dia ti -- ra o ves -- ti -- do
-O so -- no vem
-Vem ver, va -- ler
-O som nos le -- var
-De pa -- ran -- go -- lé pra lá
-Vem di -- zer que a amar é
-Uôu, uôu
-Vem ver, va -- ler
-O som nos le -- var
-De pa -- ran -- go -- lé pra lá
-Vem di -- zer que a amar é
-Uôu, uôu
-Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-Le -- va, le -- va, le -- va
-Le -- va a le -- va -- da do tim -- bal, au, au
-E ho -- je... Hei
+Le -- va_a le -- va -- da do tim -- bal,  au, au
+%Le -- va, le -- va, le -- va
+%Le -- va_a le -- va -- da do tim -- bal, au, au
+%Fi -- que se qui -- ser fi -- car
+%Tô gos -- tan -- do de sa -- ber
+%Que pas -- seio no teu sor -- ri -- so
+%Vo -- cê me vê
+%Que to -- li -- ce é o des -- ti -- no
+%Sem gi -- rar bem
+%Tens os lá -- bi -- os de fa -- vo
+%Por fa -- vor, ain -- da não sei
+%Ca -- da noi -- te é um ves -- ti -- do
+%Que o dia tem
+%Quan -- do o dia ti -- ra o ves -- ti -- do
+%O so -- no vem
+%Vem ver, va -- ler
+%O som nos le -- var
+%De pa -- ran -- go -- lé pra lá
+%Vem di -- zer que a amar é
+%Uôu, uôu
+%Vem ver, va -- ler
+%O som nos le -- var
+%De pa -- ran -- go -- lé pra lá
+%Vem di -- zer que a amar é
+%Uôu, uôu
+%Le -- va, le -- va, le -- va
+%Le -- va a le -- va -- da do tim -- bal, au, au
+%Le -- va, le -- va, le -- va
+%Le -- va a le -- va -- da do tim -- bal, au, au
+%Le -- va, le -- va, le -- va
+%Le -- va a le -- va -- da do tim -- bal, au, au
+%Le -- va, le -- va, le -- va
+%Le -- va a le -- va -- da do tim -- bal, au, au
+E hoje... 
 Tô fe -- liz é de lhe ver... Hei
 Com di -- nhei -- ro ou sem di -- nhei -- ro... Hei
 Eu me vi -- ro em fe -- ve -- rei -- ro
-E ho -- je... Hei
+E ho -- je... 
 Tô fe -- liz é de lhe ver... Hei
 Com di -- nhei -- ro ou sem di -- nhei -- ro... Hei
 Fe -- ve ve -- rei -- ro eu sou
@@ -155,7 +160,7 @@ letratoda = {
 %	      \partedois
 	    }
 	  }
-% 	  \addlyrics {\letratoda}
+ 	  \addlyrics {\letratoda}
 	}
     >>
     \layout {}
@@ -278,3 +283,4 @@ letratoda = {
 %}
 
 
+\version "2.22.0"
