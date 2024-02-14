@@ -2,6 +2,7 @@
 \include "../formatoversos.ly"
 \include "../marcaspadronizadas.ly"
 \include "../nomedasnotas.ly"
+\include "../numerodasnotas.ly"
 \version "2.18.2"
 % automatically converted by musicxml2ly from /home/GuigUse/Nextcloud/Musica/2018-vqf/bananeira/bananeira-p1.mxl
 
@@ -227,6 +228,44 @@ letratodacorde = \lyricmode {
     }
   }
 }
+
+\book {
+  \bookOutputName "bananeira_C_notasnum"
+  \header {
+     instrument = "Para instrumentos em C"
+  }
+  \score {
+    <<s
+      \new TimeSig \compassoseparado
+      \new Staff {
+        \accidentalStyle Score.dodecaphonic
+        \new Voice = "escaleta" {
+          \transpose d d {
+            \easyHeadsOn
+            \teeny
+            \parteum
+            \partedois
+            \partetres
+          }
+        }
+        \addlyrics \letratoda
+      }
+    >>
+    \layout {
+    \context {
+      \Voice
+      \consists \Gravador_numero_notas
+    }
+    \context {
+      \Score 
+      \override SpacingSpanner.base-shortest-duration = #(ly:make-moment 1/4)
+	}
+
+    }
+  }
+}
+
+
 
 
 \include "../cifra-formatos.ly"
